@@ -1,0 +1,24 @@
+body {
+    font-family: Helvetica, sans-serif;
+    margin: auto;
+    padding: 0;
+    background-color: #f7f7f7;
+}
+
+a,
+a:active {
+    text-decoration: none;
+    color: #222;
+}
+
+pre {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-left: 2px solid #ccc;
+    overflow: auto;
+    word-break: break-all;
+}
+
+.clear {
+    clear: both;
+}
